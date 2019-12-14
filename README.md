@@ -13,10 +13,12 @@ and db name
 in
 template/header.php
 https://github.com/amirul1000/medical_appointment/blob/master/template/header.php
-       $site_url = 'http://'.$_SERVER['HTTP_HOST'];
+
+$site_url = 'http://'.$_SERVER['HTTP_HOST'];
        
- set your folder name if you play in localhost
- $site_url = 'http://'.$_SERVER['HTTP_HOST'].'/folder_name';
+set your folder name if you play in localhost
+ 
+$site_url = 'http://'.$_SERVER['HTTP_HOST'].'/folder_name';
  
 
 
