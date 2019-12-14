@@ -16,7 +16,7 @@ https://github.com/amirul1000/medical_appointment/blob/master/template/header.ph
 
 $site_url = 'http://'.$_SERVER['HTTP_HOST'];
        
-set your folder name if you play in localhost
+set your folder name if you run in localhost
  
 $site_url = 'http://'.$_SERVER['HTTP_HOST'].'/folder_name';
  
