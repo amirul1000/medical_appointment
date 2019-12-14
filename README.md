@@ -11,4 +11,4 @@ password
 and db name
 
 
-Donate Paypal patabuz@gmail.com
+Donate to Paypal patabuz@gmail.com
