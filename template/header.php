@@ -2,7 +2,7 @@
     <!-- saved from url=(0058) -->
     <html xmlns="http://www.w3.org/1999/xhtml">
     <?php
-       $site_url = 'http://'.$_SERVER['HTTP_HOST'].'/cmc_vellore';
+       $site_url = 'http://'.$_SERVER['HTTP_HOST'];
     ?>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
