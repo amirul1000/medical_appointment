@@ -6,6 +6,7 @@
 
 
 Set your database configuration at common/config.php
+https://github.com/amirul1000/medical_appointment/blob/master/common/config.php
 username
 password
 and db name
