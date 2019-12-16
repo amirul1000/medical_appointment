@@ -23,6 +23,8 @@ $site_url = 'http://'.$_SERVER['HTTP_HOST'].'/folder_name';
 
 Database : https://github.com/amirul1000/medical_appointment/blob/master/cmc_vellore.sql
  
+Youtube Tutorial : https://youtu.be/TQ3lt3rkPco?list=PLbQWwHG4S0snaWv5rPDfbl3d9f0gecPw-
 
+Play List : https://www.youtube.com/watch?v=OPeVanim8MM&list=PLbQWwHG4S0snaWv5rPDfbl3d9f0gecPw-
 
 Donate to Paypal patabuz@gmail.com
