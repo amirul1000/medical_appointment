@@ -11,10 +11,6 @@ At the appointment time patient will show that printed document
 
 3.Admin will set all data about slot , doctor and can monitor all the data about the system 
 
-Youtube Tutorial : https://www.youtube.com/watch?v=TQ3lt3rkPco
-
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
-
 
 *********************************************************
 Settings & Installation Guide
@@ -39,6 +35,7 @@ $site_url = 'http://'.$_SERVER['HTTP_HOST'].'/folder_name';
 Database : https://github.com/amirul1000/medical_appointment/blob/master/cmc_vellore.sql
  
 
+Youtube Tutorial : https://www.youtube.com/watch?v=TQ3lt3rkPco
 
 
 Donate to Paypal : patabuz@gmail.com
