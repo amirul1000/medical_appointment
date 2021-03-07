@@ -37,6 +37,7 @@ Database : https://github.com/amirul1000/medical_appointment/blob/master/cmc_vel
 
 Youtube Tutorial : https://www.youtube.com/watch?v=TQ3lt3rkPco
 
+https://youtu.be/tl11ohxI4FM
 
 Donate to Paypal : patabuz@gmail.com
 
