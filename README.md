@@ -11,7 +11,7 @@ At the appointment time patient will show that printed document
 
 3.Admin will set all data about slot , doctor and can monitor all the data about the system 
 
-https://youtu.be/oqczHjbQu7g
+https://www.youtube.com/watch?v=TQ3lt3rkPco
 *********************************************************
 Settings & Installation Guide
 *********************************************************
