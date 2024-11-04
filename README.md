@@ -10,6 +10,7 @@ At the appointment time patient will show that printed document
 2.Doctor could change the appointment time and could make patient confirm/cancel or can change schedule
 
 3.Admin will set all data about slot , doctor and can monitor all the data about the system 
+<img src="Screenshot.png">
 
 https://www.youtube.com/watch?v=TQ3lt3rkPco
 *********************************************************
